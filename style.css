@@ -1,0 +1,66 @@
+*/  {background-color: gray}
+ h1 {
+background-color: white;
+color: gray;
+text-align: center;
+padding: .5%
+
+
+     }
+.background {background-color: gray ;}
+            
+body {
+    background-color:gray;
+    
+}
+ h2 {color: gray; text-align: center;
+padding: .5%}
+  
+
+.container {
+            background-color: white;
+         display:inline-block
+}
+.container1 {
+    background-color: white;
+}
+.H {padding: 2%;
+border-bottom: solid gray 5px;
+background-color: white;
+color: gray;}
+p {background-color: white;
+    padding: 10px;
+    margin-top: 5px;
+text-align: center;
+color: gray;}
+Section {background-color: white;
+float: right;
+width: 450px;
+text-align: center;
+margin-left: 200px;
+padding: 10px;
+margin-top: 5px;
+color: gray;}
+
+    Article {padding: 10px;
+        margin-top: 5px;
+    background-color: grey;
+text-align: center;
+color: white;}
+
+Aside {background-color: white;
+    float: right;
+    width: 450px;
+    height: 185px;
+    margin-right: 200px;  
+    text-align: center; 
+    color: gray;
+    
+}
+
+.footer {text-align: center;
+background-color: white;
+padding: 20px;
+margin-top: 5px;
+border-top: gray solid 5px;
+color: gray}
